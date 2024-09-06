@@ -1,0 +1,21 @@
+#section1{
+    float: left;
+    background-color: green;
+    margin-top: 10px;
+}
+
+#section2{
+    float: right;
+    background-color: red;
+    margin-top: 10px
+}
+#clear-div{
+     clear: both;
+}
+
+#section3{
+    background-color: red;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+}
